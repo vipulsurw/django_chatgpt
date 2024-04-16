@@ -1,0 +1,6 @@
+django
+twilio
+openai
+python-decouple
+psycopg2-binary
+pyngrok
